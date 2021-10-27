@@ -27,12 +27,12 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/gabriel-teixeira-3049a3154/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
   </div>
-  ### Formação
+  <strong>Formação</strong>
  Engenharia Informática no Instituto Politécnico de Bragança - Portugal <br>
-  ### Dominio
+  <strong>Dominio</strong>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width=30px height="30px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width=30px height="30px">  
-  ### Atualmente estudando <br>
+  <strong>Atualmente estudando</strong> <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width=30px height="30px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=30px height="30px">
   

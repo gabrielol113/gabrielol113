@@ -30,10 +30,13 @@ Here are some ideas to get you started:
   <strong>Formação</strong>
  Engenharia Informática no <a href="http://portal3.ipb.pt/index.php/pt/ipb">Instituto Politécnico de Bragança</a> - Portugal <br>
   <strong>Dominio</strong>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width=30px height="30px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width=30px height="30px">  
+ <div>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width=30px height="30px">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width=30px height="30px"> 
+ </div>
   <strong>Atualmente estudando</strong> <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width=30px height="30px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=30px height="30px">
-  
+ <div>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width=30px height="30px">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=30px height="30px">
+ </div>
   

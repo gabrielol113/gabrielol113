@@ -30,13 +30,10 @@ Here are some ideas to get you started:
   ### Formação
  Engenharia Informática no Instituto Politécnico de Bragança - Portugal <br>
   ### Dominio
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width=40px height="40px">
-  -- HTML5
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width=40px height="40px">
-  -- CSS3
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width=30px height="30px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width=30px height="30px">  
   ### Atualmente estudando <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width=40px height="40px">
-  --JavaScript <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=40px height="40px">
-  --React 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width=30px height="30px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=30px height="30px">
+  
   

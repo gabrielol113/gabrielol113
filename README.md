@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   -- HTML5
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width=40px height="40px">
   -- CSS3
-  ### Atualmente estudando
+  ### Atualmente estudando <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width=40px height="40px">
   --JavaScript <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=40px height="40px">

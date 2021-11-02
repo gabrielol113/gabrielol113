@@ -1,4 +1,4 @@
-<img src="WhatsApp Image 2021-09-28 at 21.23.41.jpeg" alt="Profile Photo" width="200px">
+<img src="WhatsApp Image 2021-09-28 at 21.23.41.jpeg" alt="Profile Photo" width="200px" style="border-radius=10px">
 ### Olá meu nome é Gabriel 👋
 
 <!--

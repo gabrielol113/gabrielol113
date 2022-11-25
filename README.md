@@ -18,7 +18,7 @@
    <a href="https://www.linkedin.com/in/gabriel-teixeira-3049a3154/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
   </div>
-  <strong>Formação</strong>
+  <strong>Em Formação</strong>
  Engenharia Informática no <a href="http://portal3.ipb.pt/index.php/pt/ipb">Instituto Politécnico de Bragança</a> - Portugal <br>
   <strong>Dominio</strong>
  <div>

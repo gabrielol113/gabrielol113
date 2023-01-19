@@ -1,5 +1,5 @@
 <div align="center">
-      <img src="WhatsApp Image 2021-09-28 at 21.23.41.jpeg" alt="Profile Photo" width="200px" border-radius: 10px; border: 3px solid white;> <br>
+      <img src="WhatsApp Image 2021-09-28 at 21.23.41.jpeg" alt="Profile Photo" width="200px" style="border-radius: 10px; border: 3px solid white;"> <br>
       <h3> Olá meu nome é Gabriel 👋</h3>
 </div>
 <!--

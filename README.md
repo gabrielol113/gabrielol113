@@ -28,7 +28,7 @@
   <strong>Atualmente estudando</strong> <br>
 
   <div> 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width=30px;>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/reactjs-original.svg" width=30px;>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=30px;>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=30px;>      
+        
  </div>

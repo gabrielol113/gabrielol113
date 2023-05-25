@@ -1,6 +1,11 @@
 <div align="center">
       <img src="WhatsApp Image 2021-09-28 at 21.23.41.jpeg" alt="Profile Photo" width="200px" style="border-radius: 10px; border: 3px solid white;"> <br>
       <h3> Hello, my name is Gabriel 👋</h3>
+      <p> My name is Gabriel and I am a dedicated and enthusiastic 24 year old IT student. Throughout my studies, I deepened and acquired solid knowledge in different technologies and frameworks for Frontend development. My experience includes mastering languages ​​like HTML, CSS and JavaScript, as well as using popular libraries like React and NextJS efficiently. Also, I'm proficient in working with Typescript, which allows me to write more robust and scalable code.
+
+During my academic journey, I had the opportunity to participate in a research fellow program at the faculty. This experience gave me valuable insight into the practical application of concepts learned in the classroom. I worked on team software development projects, where I was able to improve my collaboration and communication skills. In addition, I was responsible for contributing to the creation of friendly and responsive interfaces, ensuring usability and user experience.
+
+I believe that my passion for Frontend, along with my constant thirst for learning and improvement, make me an ideal candidate for this position. I am willing to face challenges, work as a team and look for innovative solutions to complex problems. </p>
 </div>
 <div align="center">
         <a href="https://instagram.com/gabrielol113" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" width="200px" height="40px">

@@ -5,7 +5,7 @@
 
 During my academic journey, I had the opportunity to participate in a research fellow program at the faculty. This experience gave me valuable insight into the practical application of concepts learned in the classroom. I worked on team software development projects, where I was able to improve my collaboration and communication skills. In addition, I was responsible for contributing to the creation of friendly and responsive interfaces, ensuring usability and user experience.
 
-I believe that my passion for Frontend, along with my constant thirst for learning and improvement, make me an ideal candidate for this position. I am willing to face challenges, work as a team and look for innovative solutions to complex problems. </p>
+I believe that my passion for Frontend, along with my constant thirst for learning and improvement. I am willing to face challenges, work as a team and look for innovative solutions to complex problems. </p>
 </div>
 <div align="center">
         <a href="https://instagram.com/gabrielol113" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" width="200px" height="40px">

@@ -1,5 +1,5 @@
 <div align="center">
-      <img src="WhatsApp Image 2021-09-28 at 21.23.41.jpeg" alt="Profile Photo" width="200px" style="border-radius: 10px; border: 3px solid white;"> <br>
+      <img src="WhatsApp Image 2021-09-28 at 21.23.41.jpeg.jpg" alt="Profile Photo" width="200px" style="border-radius: 10px; border: 3px solid white;"> <br>
       <h3> Hello, my name is Gabriel 👋</h3>
       <p> My name is Gabriel and I am a dedicated and enthusiastic 24 year old IT student. Throughout my studies, I deepened and acquired solid knowledge in different technologies and frameworks for Frontend development. My experience includes languages ​​like HTML, CSS and JavaScript, as well as using popular libraries like React and NextJS efficiently. Also, I'm working with Typescript, which allows me to write more robust and scalable code.
 

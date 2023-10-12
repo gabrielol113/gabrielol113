@@ -31,11 +31,11 @@ I believe that my passion for Frontend, along with my constant thirst for learni
       <!-- NodeJS icon -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=30px;> 
  </div>
-  <strong>Now studying:</strong> <br>
+  <strong>Now Learning:</strong> <br>
       
   <div> 
         <!-- NextJs icon -->
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />  
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=30px height="30px" />  
         <!-- C# icon -->
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=30px height="30px" />
  </div>

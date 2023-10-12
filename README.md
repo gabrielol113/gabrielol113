@@ -44,5 +44,8 @@ I believe that my passion for Frontend, along with my constant thirst for learni
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=30px height="30px" />  NextJs
               <!-- C# icon -->
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=30px height="30px" /> CSharp        
+              <!-- Typescript icon -->
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=30px height="30px" />
+
         </details>
  </div>

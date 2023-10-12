@@ -20,13 +20,22 @@ I believe that my passion for Frontend, along with my constant thirst for learni
  Engenharia Informática on <a href="http://portal3.ipb.pt/index.php/pt/ipb">Polytechnic Institute of  Bragança</a> - Portugal <br>
   <strong>Strong skills:</strong>
  <div>
+       //HTML icon
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width=30px height="30px">
+       //CSS icon
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width=30px height="30px">
+       //JS icon
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width=30px height="30px">
+       //React icon
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width=30px;/>  
+       //NodeJs icon
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=30px;> 
  </div>
   <strong>Now studying:</strong> <br>
-
+      
   <div> 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width=30px;/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=30px;>        
+        //NextJs icon
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />  
+        //C# icon
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
  </div>

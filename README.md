@@ -23,23 +23,27 @@ I believe that my passion for Frontend, along with my constant thirst for learni
        <details>
             <summary> <strong>Strong skills:</strong> </summary>
                    <!--HTML icon -->
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width=30px height="30px">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width=30px height="30px"> HTML5
        <!-- CSS icon -->
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width=30px height="30px">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width=30px height="30px"> CSS3
        <!--JS icon -->
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width=30px height="30px">
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width=30px height="30px"> Javascript
        <!--REACT icon -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width=30px;/>  
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width=30px;/>  ReactJs
       <!-- NodeJS icon -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=30px;> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=30px;>  NodeJs
        </details>
 
  </div>
-  <strong>Now Learning:</strong> <br>
+  
       
   <div> 
-        <!-- NextJs icon -->
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=30px height="30px" />  
-        <!-- C# icon -->
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=30px height="30px" />
+        <details> 
+              <summary> <strong>Now Learning:</strong> <br> </summary>
+              <!-- NextJs icon -->
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=30px height="30px" />  NextJs
+              <!-- C# icon -->
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=30px height="30px" /> C#
+        
+        </details>
  </div>

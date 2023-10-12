@@ -18,9 +18,11 @@ I believe that my passion for Frontend, along with my constant thirst for learni
  </div>
   <strong>High School:</strong>
  Engenharia Informática on <a href="http://portal3.ipb.pt/index.php/pt/ipb">Polytechnic Institute of  Bragança</a> - Portugal <br>
-  <strong>Strong skills:</strong>
+ 
  <div>
-      <!--HTML icon -->
+       <details>
+            <summary> <strong>Strong skills:</strong> </summary>
+                   <!--HTML icon -->
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width=30px height="30px">
        <!-- CSS icon -->
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width=30px height="30px">
@@ -30,6 +32,8 @@ I believe that my passion for Frontend, along with my constant thirst for learni
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width=30px;/>  
       <!-- NodeJS icon -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=30px;> 
+       </details>
+
  </div>
   <strong>Now Learning:</strong> <br>
       

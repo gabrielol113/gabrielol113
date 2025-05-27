@@ -1,6 +1,6 @@
 <div align="center">
       <img src="WhatsApp Image 2021-09-28 at 21.23.41.jpeg.jpg" alt="Profile Photo" width="200px" style="border-radius: 10px; border: 3px solid white;"> <br>
-      <p> My name is Gabriel and I am a dedicated and enthusiastic 24 year old IT student. Throughout my studies, I deepened and acquired solid knowledge in different technologies and frameworks for Frontend development. My experience includes languages ​​like HTML, CSS and JavaScript, as well as using popular libraries like React and NextJS efficiently. Also, I'm working with Typescript, which allows me to write more robust and scalable code.
+      <p> My name is Gabriel and I am a dedicated and enthusiastic 26 year old IT student. Throughout my studies, I deepened and acquired solid knowledge in different technologies and frameworks for Frontend development. My experience includes languages ​​like HTML, CSS and JavaScript, as well as using popular libraries like React and NextJS efficiently. Also, I'm working with Typescript, which allows me to write more robust and scalable code.
 
 During my academic journey, I had the opportunity to participate in a research fellow program at the faculty. This experience gave me valuable insight into the practical application of concepts learned in the classroom. I worked on team software development projects, where I was able to improve my collaboration and communication skills. In addition, I was responsible for contributing to the creation of friendly and responsive interfaces, ensuring usability and user experience.
 

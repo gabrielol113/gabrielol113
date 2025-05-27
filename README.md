@@ -11,7 +11,7 @@ I believe that my passion for Frontend, along with my constant thirst for learni
         </a>
  	  <a href="https://www.twitch.tv/tixolee" target="_blank"><img                                              src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"                    width="100px" height="30px">
         </a>
-        <a href="https://www.linkedin.com/in/gabriel-teixeira-2a3a96284/" target="_blank"><img                                            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-     badge&logo=linkedin&logoColor=white"                  target="_blank"   width="100px" height="30px">
+        <a href="https://www.linkedin.com/in/gabriel-teixeira-2a3a96284/" target="_blank"><img                                            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"                  target="_blank"   width="100px" height="30px">
         </a> 
     
  </div>
